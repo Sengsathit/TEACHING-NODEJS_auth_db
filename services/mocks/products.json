@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "name": "Pâtes Spaghetti",
+        "description": "Spaghetti de blé dur",
+        "price": 1.20,
+        "stock": 120,
+        "category": "épicerie"
+    },
+    {
+        "id": 2,
+        "name": "Riz Basmati",
+        "description": "Riz basmati parfumé",
+        "price": 2.50,
+        "stock": 80,
+        "category": "épicerie"
+    },
+    {
+        "id": 3,
+        "name": "Farine de blé",
+        "description": "Farine T55",
+        "price": 0.95,
+        "stock": 140,
+        "category": "épicerie"
+    },
+    {
+        "id": 4,
+        "name": "Lait demi-écrémé",
+        "description": "Brique 1L",
+        "price": 1.10,
+        "stock": 200,
+        "category": "frais"
+    },
+    {
+        "id": 5,
+        "name": "Beurre doux",
+        "description": "Plaquette 250g",
+        "price": 2.10,
+        "stock": 75,
+        "category": "frais"
+    },
+    {
+        "id": 6,
+        "name": "Yaourt nature",
+        "description": "Pack de 4",
+        "price": 1.80,
+        "stock": 90,
+        "category": "frais"
+    },
+    {
+        "id": 7,
+        "name": "Fromage emmental",
+        "description": "Râpé 200g",
+        "price": 2.30,
+        "stock": 60,
+        "category": "frais"
+    },
+    {
+        "id": 8,
+        "name": "Jambon blanc",
+        "description": "4 tranches",
+        "price": 3.50,
+        "stock": 55,
+        "category": "frais"
+    },
+    {
+        "id": 9,
+        "name": "Poulet rôti",
+        "description": "Prêt à consommer",
+        "price": 7.90,
+        "stock": 25,
+        "category": "traiteur"
+    },
+    {
+        "id": 10,
+        "name": "Steak haché",
+        "description": "2x125g",
+        "price": 4.60,
+        "stock": 40,
+        "category": "viande"
+    },
+    {
+        "id": 11,
+        "name": "Pommes Golden",
+        "description": "1kg",
+        "price": 2.00,
+        "stock": 70,
+        "category": "fruits"
+    },
+    {
+        "id": 12,
+        "name": "Bananes",
+        "description": "1kg",
+        "price": 1.80,
+        "stock": 85,
+        "category": "fruits"
+    },
+    {
+        "id": 13,
+        "name": "Oranges",
+        "description": "1kg",
+        "price": 2.40,
+        "stock": 50,
+        "category": "fruits"
+    },
+    {
+        "id": 14,
+        "name": "Tomates",
+        "description": "Barquette 500g",
+        "price": 2.20,
+        "stock": 65,
+        "category": "légumes"
+    },
+    {
+        "id": 15,
+        "name": "Carottes",
+        "description": "1kg",
+        "price": 1.30,
+        "stock": 90,
+        "category": "légumes"
+    },
+    {
+        "id": 16,
+        "name": "Pommes de terre",
+        "description": "2.5kg",
+        "price": 3.50,
+        "stock": 110,
+        "category": "légumes"
+    },
+    {
+        "id": 17,
+        "name": "Oignons jaunes",
+        "description": "1kg",
+        "price": 1.40,
+        "stock": 75,
+        "category": "légumes"
+    },
+    {
+        "id": 18,
+        "name": "Concombres",
+        "description": "Pièce",
+        "price": 1.10,
+        "stock": 50,
+        "category": "légumes"
+    },
+    {
+        "id": 19,
+        "name": "Poivrons rouges",
+        "description": "Pièce",
+        "price": 1.50,
+        "stock": 45,
+        "category": "légumes"
+    },
+    {
+        "id": 20,
+        "name": "Salade verte",
+        "description": "Pièce",
+        "price": 1.20,
+        "stock": 40,
+        "category": "légumes"
+    },
+    {
+        "id": 21,
+        "name": "Huile d'olive",
+        "description": "Bouteille 75cl",
+        "price": 5.90,
+        "stock": 60,
+        "category": "épicerie"
+    },
+    {
+        "id": 22,
+        "name": "Vinaigre balsamique",
+        "description": "Bouteille 50cl",
+        "price": 3.20,
+        "stock": 45,
+        "category": "épicerie"
+    },
+    {
+        "id": 23,
+        "name": "Sel fin",
+        "description": "500g",
+        "price": 0.70,
+        "stock": 150,
+        "category": "épicerie"
+    },
+    {
+        "id": 24,
+        "name": "Poivre noir",
+        "description": "Moulin 50g",
+        "price": 2.90,
+        "stock": 40,
+        "category": "épicerie"
+    },
+    {
+        "id": 25,
+        "name": "Sauce tomate",
+        "description": "Pot 350g",
+        "price": 1.50,
+        "stock": 80,
+        "category": "épicerie"
+    },
+    {
+        "id": 26,
+        "name": "Thon en boîte",
+        "description": "2x140g",
+        "price": 3.00,
+        "stock": 70,
+        "category": "conserve"
+    },
+    {
+        "id": 27,
+        "name": "Haricots rouges",
+        "description": "Boîte 400g",
+        "price": 1.20,
+        "stock": 55,
+        "category": "conserve"
+    },
+    {
+        "id": 28,
+        "name": "Maïs doux",
+        "description": "Boîte 300g",
+        "price": 1.10,
+        "stock": 60,
+        "category": "conserve"
+    },
+    {
+        "id": 29,
+        "name": "Raviolis en sauce",
+        "description": "Boîte 800g",
+        "price": 2.80,
+        "stock": 40,
+        "category": "conserve"
+    },
+    {
+        "id": 30,
+        "name": "Soupe de légumes",
+        "description": "Brique 1L",
+        "price": 2.50,
+        "stock": 50,
+        "category": "épicerie"
+    },
+    {
+        "id": 31,
+        "name": "Pain de mie",
+        "description": "500g",
+        "price": 1.80,
+        "stock": 70,
+        "category": "boulangerie"
+    },
+    {
+        "id": 32,
+        "name": "Croissants",
+        "description": "Pack de 4",
+        "price": 2.60,
+        "stock": 40,
+        "category": "boulangerie"
+    },
+    {
+        "id": 33,
+        "name": "Baguette",
+        "description": "Tradition",
+        "price": 1.10,
+        "stock": 100,
+        "category": "boulangerie"
+    },
+    {
+        "id": 34,
+        "name": "Biscuits chocolat",
+        "description": "Paquet 150g",
+        "price": 1.90,
+        "stock": 85,
+        "category": "snack"
+    },
+    {
+        "id": 35,
+        "name": "Chips nature",
+        "description": "150g",
+        "price": 1.50,
+        "stock": 60,
+        "category": "snack"
+    },
+    {
+        "id": 36,
+        "name": "Barres céréales",
+        "description": "Pack de 6",
+        "price": 2.30,
+        "stock": 55,
+        "category": "snack"
+    },
+    {
+        "id": 37,
+        "name": "Café moulu",
+        "description": "250g",
+        "price": 3.80,
+        "stock": 45,
+        "category": "boissons"
+    },
+    {
+        "id": 38,
+        "name": "Thé vert",
+        "description": "Boîte 20 sachets",
+        "price": 2.40,
+        "stock": 50,
+        "category": "boissons"
+    },
+    {
+        "id": 39,
+        "name": "Jus d'orange",
+        "description": "Bouteille 1L",
+        "price": 1.90,
+        "stock": 70,
+        "category": "boissons"
+    },
+    {
+        "id": 40,
+        "name": "Eau minérale",
+        "description": "Pack 6x1.5L",
+        "price": 2.60,
+        "stock": 120,
+        "category": "boissons"
+    },
+    {
+        "id": 41,
+        "name": "Pizza surgelée",
+        "description": "4 fromages",
+        "price": 4.50,
+        "stock": 30,
+        "category": "surgelés"
+    },
+    {
+        "id": 42,
+        "name": "Frites surgelées",
+        "description": "1kg",
+        "price": 2.40,
+        "stock": 50,
+        "category": "surgelés"
+    },
+    {
+        "id": 43,
+        "name": "Légumes wok",
+        "description": "750g",
+        "price": 3.10,
+        "stock": 40,
+        "category": "surgelés"
+    },
+    {
+        "id": 44,
+        "name": "Filets de poisson",
+        "description": "400g",
+        "price": 5.90,
+        "stock": 35,
+        "category": "surgelés"
+    },
+    {
+        "id": 45,
+        "name": "Glace vanille",
+        "description": "500ml",
+        "price": 3.50,
+        "stock": 45,
+        "category": "desserts"
+    },
+    {
+        "id": 46,
+        "name": "Chocolat noir",
+        "description": "Tablette 100g",
+        "price": 1.70,
+        "stock": 85,
+        "category": "desserts"
+    },
+    {
+        "id": 47,
+        "name": "Compote de pommes",
+        "description": "4x100g",
+        "price": 1.90,
+        "stock": 55,
+        "category": "desserts"
+    },
+    {
+        "id": 48,
+        "name": "Miel liquide",
+        "description": "250g",
+        "price": 3.60,
+        "stock": 40,
+        "category": "épicerie"
+    },
+    {
+        "id": 49,
+        "name": "Confiture de fraise",
+        "description": "370g",
+        "price": 2.80,
+        "stock": 50,
+        "category": "épicerie"
+    },
+    {
+        "id": 50,
+        "name": "Amandes grillées",
+        "description": "200g",
+        "price": 4.80,
+        "stock": 30,
+        "category": "snack"
+    }
+]
